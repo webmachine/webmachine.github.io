@@ -1,0 +1,13 @@
+# Site settings
+title: Webmachine
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+      Webmachine is not much like the Web frameworks you're used
+      to. You can call Webmachine a REST toolkit if you like, and we
+      won't argue with you
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://webmachine.github.io" # the base hostname & protocol for your site
+github_username:  webmachine
+
+# Build settings
+markdown: kramdown
